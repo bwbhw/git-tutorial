@@ -2,4 +2,4 @@
 
 ### git log
 
-- feature-A
+- feature-B
