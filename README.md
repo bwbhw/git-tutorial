@@ -3,4 +3,4 @@
 ### git log
 
 - feature-B
-- faeture-C
+- feature-C
